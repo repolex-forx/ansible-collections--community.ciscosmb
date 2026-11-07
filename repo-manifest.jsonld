@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.ciscosmb/commit/5279c8390289ce921ba3bc721406c9bc571d1bb8",
       "git:hexsha": "5279c8390289ce921ba3bc721406c9bc571d1bb8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.0.12"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.0.12",
+      "repolex:parsedAt": "2026-11-07T17:33:16.330190+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.ciscosmb/commit/6b9b1a0c7b293c3ab7b757bcd3939924f83ba91f",
