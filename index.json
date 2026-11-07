@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.ciscosmb",
+  "versions": [
+    {
+      "commit": "5279c8390289ce921ba3bc721406c9bc571d1bb8",
+      "tag": "1.0.12",
+      "parsed_at": "2026-11-07T17:33:16.406929+00:00"
+    }
+  ]
+}
