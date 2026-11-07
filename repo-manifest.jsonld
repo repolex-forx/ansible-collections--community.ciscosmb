@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.ciscosmb/commit/5279c8390289ce921ba3bc721406c9bc571d1bb8",
       "git:hexsha": "5279c8390289ce921ba3bc721406c9bc571d1bb8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.0.12"
     },
     {
